@@ -1,13 +1,13 @@
 let audios = [
     {caminho:'matuto.mp3', legenda:'Matuto de verdade'},
     {caminho:'Arash.mp3', legenda:'Arash'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'gustavo1.mp3', legenda:'Paula Fernandes'},
     {caminho:'Hayit.mp3', legenda:'Hayit'},
     {caminho:'Helena.mp3', legenda:'Helena'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
-    {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
+    {caminho:'gustavo2.mp3', legenda:'Paula Fernandes'},
+    {caminho:'gustavo3.mp3', legenda:'Paula Fernandes'},
+    {caminho:'gustavo4.mp3', legenda:'Paula Fernandes'},
+    {caminho:'gustavo5.mp3', legenda:'Paula Fernandes'},
 ];
 
 let botoes = document.querySelectorAll('.botao');
